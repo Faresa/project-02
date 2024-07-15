@@ -1,0 +1,25 @@
+body {
+    padding-top: 56px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    color: #5a5a5a;
+    text-align: center;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
